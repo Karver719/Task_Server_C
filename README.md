@@ -60,5 +60,5 @@ app1
 app2
  ```
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](/Task_Server_C/img/image.png)
+![alt text](/Task_Server_C/img/image-1.png)
